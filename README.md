@@ -7,10 +7,6 @@ Consegui o primeiro emprego na área em 2021.</br>
 Precisei focar no serviço e correr atrás do conhecimento necessário para o projeto, </br>
 e acabei deixando de lado o GitHub e o Linkedin.
 
-<strong>Mas em 2022 as coisas vão mudar!!</strong>   🚀 
-
-Durante esse ano a meta é organizar meus repositórios e compartilhar os estudos que tenho feito. </br>
-
 ### Controle de status 🤸‍♀️ 
 
 ![Adriana GitHub stats](https://github-readme-stats.vercel.app/api?username=vinadeia&show_icons=true&theme=radical)
