@@ -1,11 +1,10 @@
-### Olá! Bem-Vindo ao meu GitHub 👋
+### Bem-Vindo ao meu GitHub 👋
 
 Olá, eu sou a Adriana Vinadé.
 
-Iniciei meus estudos em programação em 2020 durante a Pandemia.</br>
-Consegui o primeiro emprego na área em 2021.</br>
-Precisei focar no serviço e correr atrás do conhecimento necessário para o projeto, </br>
-e acabei deixando de lado o GitHub e o Linkedin.
+Iniciei meus estudos em programação em 2020 durante a Pandemia e</br>
+consegui meu primeiro emprego como programadora em 2021.</br>
+Em 2024 comecei a cursar a graduação em Análise de Desenvolvimento de Sistemas no IFRS.
 
 ### Controle de status 🤸‍♀️ 
 
